@@ -1,0 +1,15 @@
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\bin\Debug\net6.0\Урок7Задача1.exe
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\bin\Debug\net6.0\Урок7Задача1.deps.json
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\bin\Debug\net6.0\Урок7Задача1.runtimeconfig.json
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\bin\Debug\net6.0\Урок7Задача1.dll
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\bin\Debug\net6.0\Урок7Задача1.pdb
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\Урок7Задача1.csproj.AssemblyReference.cache
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\Урок7Задача1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\Урок7Задача1.AssemblyInfoInputs.cache
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\Урок7Задача1.AssemblyInfo.cs
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\Урок7Задача1.csproj.CoreCompileInputs.cache
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\Урок7Задача1.dll
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\refint\Урок7Задача1.dll
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\Урок7Задача1.pdb
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\Урок7Задача1.genruntimeconfig.cache
+C:\Users\mishe\OneDrive\Рабочий стол\GB\CSharpHomeWork_7\Урок7Задача1\obj\Debug\net6.0\ref\Урок7Задача1.dll
